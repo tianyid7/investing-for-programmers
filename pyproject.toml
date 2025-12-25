@@ -10,5 +10,6 @@ dependencies = [
     "jupyterlab>=4.5.1",
     "matplotlib>=3.10.8",
     "openbb>=4.1.3",
+    "pytrends>=4.9.2",
     "yfinance>=0.2.66",
 ]
